@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Atom",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "csz",
+    "myasset"
+  ],
+  "baseFontSize": 20,
+  "accentColor": "",
+  "nativeMenus": false
+}

@@ -1,0 +1,287 @@
+{
+  "main": {
+    "id": "fec00ca885cf33d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e75f6854667bdf9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffc0e2d3b25a5ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/Cstina.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bad0bf1ce23a3d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/tawa.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "820477401a35a750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/yuki.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cea028a030f6c3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54470dbcdb8fb059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/yamari.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e73f6362da3bc5b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "content/post/images/yamari/IMG_20220514_173527.jpg"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "922bd89ad1d992fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0840abab2331f873",
+        "type": "tabs",
+        "dimension": 67.9297597042514,
+        "children": [
+          {
+            "id": "f21249a5bdaff60d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efc56b69281b9a8e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "efe41981274f8f49",
+        "type": "tabs",
+        "dimension": 32.07024029574861,
+        "children": [
+          {
+            "id": "ae3b3db41215dcf4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "3d7043797688c778",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc2ccabdcb935a4",
+        "type": "tabs",
+        "dimension": 69.54887218045113,
+        "children": [
+          {
+            "id": "8329a4ea862cd75f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "5feb4898daaf5550",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e85da28c0e0c263a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f9e42d323bc04075",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa4b20e569f8d37f",
+        "type": "tabs",
+        "dimension": 30.451127819548873,
+        "children": [
+          {
+            "id": "f24e17128cd21a77",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:打开命令面板": true,
+      "switcher:打开快速切换": true,
+      "workspaces:管理工作区布局": true,
+      "templates:插入模板": true,
+      "cmdr:QuickAdd: Create_Iro": false
+    }
+  },
+  "active": "efc56b69281b9a8e",
+  "lastOpenFiles": [
+    "vercel.json",
+    "static/images/yuki/IMG_20220220_172922.xPvKVbRY.jpg",
+    "static/images/yamari/IMG_20220514_173527.WEYMJzfx.jpg",
+    "static/images/sorauwe/IMG_20220327_163507.JbyHNSMl.jpg",
+    "static/images/tawa/IMG_20210820_143037.lxXSpgmP.jpg",
+    "static/images/Cstina/IMG_20130801_151156.cpeBPonY.jpg",
+    "static/images/about/IMG_20220213_165153.OEEIpMrg.jpg",
+    "static/images/yuki/IMG_20220220_172922.jzNIJVOM.jpg",
+    "static/images/yamari/IMG_20220514_173527.EwhTFjPu.jpg",
+    "static/images/tawa/IMG_20210820_143037.eYhhrLHu.jpg",
+    "static/images/sorauwe/IMG_20220327_163507.tCXOdztF.jpg",
+    "content/post/sorauwe.md",
+    "content/post/yamari.md",
+    "static/images/yamari",
+    "content/post/images/yamari",
+    "content/post/tawa.md",
+    "content/post/yuki.md",
+    "static/images/sorauwe",
+    "content/post/images/sorauwe",
+    "static/images/yuki",
+    "content/post/images/yuki",
+    "static/images/tawa",
+    "content/post/images/tawa",
+    "content/post/Cstina.md",
+    "README.md",
+    "images/Cstina/IMG_20130801_151156.jpg.md",
+    "images/Cstina",
+    "images",
+    "Cstina.md",
+    "![](images/Cstina/IMG_20130801_151156.jpg).md",
+    "content/post/北京测试.md",
+    "content/post/emoji-support.md",
+    "content/post/香港路由.md",
+    "content/post/北京测试 copy.md",
+    "archetypes/default.md",
+    "content/post/ceshi.md",
+    "content/post/未命名.md",
+    "ceshi.md",
+    "2023-05-15.md",
+    "C - Note_Dev/C-02-Server/Git/SourceTree Github Repo Email Setting Note.md",
+    "C - Note_Dev/C-02-Server/Git/SourceTree Commit 不同仓库注意切换帐号.md",
+    "C - Note_Dev/C-02-Server/Git/SourceTree push 提示账户拒绝.md",
+    "0 - Stack/A - Draft_Folder/2023-04-24-17-14-48-星期一.md",
+    "H - Elias_Atuy/README.md",
+    "R - Elias_0x24s/服务平台配置信息/基础多方平台.md",
+    "C - Note_Dev/C-09-Interview/Java 面试知识合集.md",
+    "0 - Stack/A - Draft_Folder/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1684140643993,
+      "path": "content/post"
+    },
+    {
+      "type": "folder",
+      "ctime": 1684140667116,
+      "path": "static/images"
+    }
+  ]
+}

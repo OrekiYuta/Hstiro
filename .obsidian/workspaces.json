@@ -1,0 +1,187 @@
+{
+  "workspaces": {
+    "elias": {
+      "main": {
+        "id": "fec00ca885cf33d4",
+        "type": "split",
+        "children": [
+          {
+            "id": "7301d1ae6074eb45",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b116b4da5fd0383",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0 - Stack/B - Todo.Overview.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": true
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "922bd89ad1d992fe",
+        "type": "split",
+        "children": [
+          {
+            "id": "0840abab2331f873",
+            "type": "tabs",
+            "dimension": 67.9297597042514,
+            "children": [
+              {
+                "id": "5291576546d72ab5",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "f21249a5bdaff60d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "efe41981274f8f49",
+            "type": "tabs",
+            "dimension": 32.07024029574861,
+            "children": [
+              {
+                "id": "ae3b3db41215dcf4",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 282.5
+      },
+      "right": {
+        "id": "3d7043797688c778",
+        "type": "split",
+        "children": [
+          {
+            "id": "bcc2ccabdcb935a4",
+            "type": "tabs",
+            "dimension": 69.03881700554528,
+            "children": [
+              {
+                "id": "8329a4ea862cd75f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "0 - Stack/B - Todo.Overview.md"
+                  }
+                }
+              },
+              {
+                "id": "5feb4898daaf5550",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "36c4e8e592fd5554",
+            "type": "tabs",
+            "dimension": 30.96118299445471,
+            "children": [
+              {
+                "id": "f89937671c30a3fb",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "0b3e3dc7a82693c9",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0 - Stack/B - Todo.Overview.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "d888d7cd271d4ef0",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "0 - Stack/B - Todo.Overview.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 268.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "command-palette:打开命令面板": false,
+          "templates:插入模板": false,
+          "switcher:打开快速切换": false,
+          "canvas:新建白板": false,
+          "graph:查看关系图谱": true,
+          "obsidian-custom-frames:Open 微信读书": false,
+          "obsidian-custom-frames:Open SeaTable": false,
+          "obsidian-custom-frames:Open Inoreader": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "5291576546d72ab5"
+    }
+  },
+  "active": "elias"
+}

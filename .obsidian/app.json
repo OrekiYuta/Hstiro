@@ -1,0 +1,25 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./images/README",
+  "newLinkFormat": "relative",
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": false,
+  "spellcheck": true,
+  "showInlineTitle": false,
+  "useMarkdownLinks": true
+}

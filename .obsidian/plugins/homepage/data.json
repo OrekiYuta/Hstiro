@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "version": 2,
+      "openOnStartup": false,
+      "hasRibbonIcon": false,
+      "openMode": "Keep open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Reading view",
+      "revertView": true,
+      "refreshDataview": false,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": true,
+      "value": "0 - Stack/B - Todo.Overview",
+      "kind": "File",
+      "commands": []
+    }
+  },
+  "separateMobile": false
+}

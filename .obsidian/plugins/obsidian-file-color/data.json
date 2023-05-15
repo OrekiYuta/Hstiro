@@ -1,0 +1,44 @@
+{
+  "palette": [
+    {
+      "id": "3oSVZxX6AdAQJetAGJ5T8",
+      "name": "",
+      "value": "#99ccff"
+    },
+    {
+      "id": "Nniur0C5Nwpcr4s6TxmKo",
+      "name": "",
+      "value": "#ccff99"
+    },
+    {
+      "id": "Bh3iqFdQE_LZRvThleenf",
+      "name": "",
+      "value": "#ccccff"
+    },
+    {
+      "id": "NCEGVWum7rbFS9_b4xWds",
+      "name": "",
+      "value": "#000000"
+    },
+    {
+      "id": "VmQN8EP456UnD8guQpU5i",
+      "name": "",
+      "value": "#3366cc"
+    },
+    {
+      "id": "kkpYwo0ez27VT-64gYqDO",
+      "name": "",
+      "value": "#ff9933"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "B - Note_Teams",
+      "color": "NCEGVWum7rbFS9_b4xWds"
+    },
+    {
+      "path": "R - Elias_0x24s",
+      "color": "NCEGVWum7rbFS9_b4xWds"
+    }
+  ]
+}

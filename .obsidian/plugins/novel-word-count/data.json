@@ -1,0 +1,119 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountType2": "none",
+    "folderCountType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "right",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "wordCountType": "AutoDetect",
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "README.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 65,
+      "pageCount": 0.21666666666666667,
+      "characterCount": 519,
+      "nonWhitespaceCharacterCount": 425,
+      "createdDate": 1684119057896,
+      "modifiedDate": 1684160668365,
+      "sizeInBytes": 519
+    },
+    "content/_index.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 64,
+      "nonWhitespaceCharacterCount": 55,
+      "createdDate": 1684119231426,
+      "modifiedDate": 1684138485861,
+      "sizeInBytes": 64
+    },
+    "content/post/yamari.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 185,
+      "nonWhitespaceCharacterCount": 160,
+      "createdDate": 1684160235532,
+      "modifiedDate": 1684160511785,
+      "sizeInBytes": 185
+    },
+    "content/post/sorauwe.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 189,
+      "nonWhitespaceCharacterCount": 164,
+      "createdDate": 1684160154242,
+      "modifiedDate": 1684160355004,
+      "sizeInBytes": 189
+    },
+    "content/post/yuki.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 179,
+      "nonWhitespaceCharacterCount": 154,
+      "createdDate": 1684160073664,
+      "modifiedDate": 1684160513245,
+      "sizeInBytes": 179
+    },
+    "content/post/tawa.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 179,
+      "nonWhitespaceCharacterCount": 154,
+      "createdDate": 1684159879963,
+      "modifiedDate": 1684160510540,
+      "sizeInBytes": 179
+    },
+    "content/post/Cstina.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "pageCount": 0.08,
+      "characterCount": 186,
+      "nonWhitespaceCharacterCount": 161,
+      "createdDate": 1684159686884,
+      "modifiedDate": 1684159806615,
+      "sizeInBytes": 186
+    },
+    "content/about.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 114,
+      "nonWhitespaceCharacterCount": 92,
+      "createdDate": 1684119231430,
+      "modifiedDate": 1684159465729,
+      "sizeInBytes": 114
+    },
+    "archetypes/default.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 123,
+      "nonWhitespaceCharacterCount": 100,
+      "createdDate": 1684119094464,
+      "modifiedDate": 1684140397327,
+      "sizeInBytes": 123
+    }
+  }
+}
